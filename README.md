@@ -7,6 +7,6 @@ See [Tensorizing Neural Networks](https://arxiv.org/abs/1509.06569) for a detail
 
 The pytorch implementation of Tensor-Train decomposition and TT-layer are contributed to [Ion Gabriel Ion](https://github.com/ion-g-ion/torchTT).
 
-We use the TT-layer to replace a fully connected layer of a simple convolutional neural network with a TT-layer on CIFAR-10 dataset and compare the parameters and other performance of the two different models.  
+In "train.ipynb" we use the TT-layer to replace a fully connected layer of a simple convolutional neural network with a TT-layer on CIFAR-10 dataset and compare the parameters and other performance of the two different models.  
 
 It's just a learning of the TT-layer with no innovation.
