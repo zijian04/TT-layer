@@ -1,5 +1,5 @@
 # TT-layer learning
-A small and simple application of TT-layer into neural network.  
+A small and simple application of TT-layer to neural network.  
 
 "TT" is the abbreviation of "Tensor Train",which is a tensor decomposition method proposed by [I. V.OSELEDETS](https://users.math.msu.edu/users/iwenmark/Teaching/CMSE890/TENSOR_oseledets2011.pdf).  
 
@@ -9,7 +9,7 @@ The pytorch implementation of Tensor-Train decomposition and TT-layer are contri
 
 In "train.ipynb" we use the TT-layer to replace a fully connected layer of a simple convolutional neural network with a TT-layer on CIFAR-10 dataset and compare the parameters and other performance of the two different models.  
 
-It's just a learning of the TT-layer with no innovation.
+It's just a simple application of TT-layer with no innovation.
 
 # Requirements
 Following requirements are needed:
