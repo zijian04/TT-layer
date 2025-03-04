@@ -17,4 +17,4 @@ Following requirements are needed:
 - `python>=3.8`
 - `torch>=1.7.0`
 - `numpy>=1.18`
-- `opt_einsum`
+- [`opt_einsum`](https://pypi.org/project/opt-einsum/)
